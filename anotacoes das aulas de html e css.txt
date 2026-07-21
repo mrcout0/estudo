@@ -1,0 +1,19 @@
+~aula sobre html e css~
+
+aula de alinhamento de interface com display e block. ele reposiciona as imagens e conteudos manipulando com alguns comandos como text-align, inline, block, etc. aprendi na aula iniciando o html e css video display none inline e block. tbm tem a função none que cancela tudo que esta naquela id/espaço.
+
+dia 30/03 aprendendo um pouco sobre borda. padding e margin. que pelo menos nessa aula, funcionam bem igual ou identico. mas aparentemente o padding é mais foda-se e o margin é um pouquinho mais detalhado, mais preciso, mesmo com menos escritas
+
+{EXPLICAÇÃO TÉCNICA: O margin é o espaço entre um elemento e seus vizinhos, enquanto o padding é o espaço entre o conteúdo do elemento e sua borda}
+
+AULA DO DIA 16/07
+aprendi um pouco sobre o light mode. ate entao nao consegui entender muito bem a quantidade de coisa que mexi, o que entendi foi que dei nome pra itens de cor, e essa cor mudar em cada modo (dark e light) usando tudo --exemplo-color pra especificar o nome e fazer com que ela mude de cor. é bom tbm prestar atenção na tom do alpha, se nao ele muda totalmente a cor do botão que você definiu. o dark mode ficou cagado pq editei errado o alpha e ficou nada transparente, e ficou bem feio
+
+AULA DO DIA 19/07
+nao existe maneira correta de realizar alguma função. existe a que funciona. mesmo que tenha N formas de fazer, a correta, é a que dar certo (y)
+
+AULA DO DIA 20/07
+aprendi um pouco sobre javascript (js) e entendi a teoria e comandos basicos sobre. importante saber tbm que ele é usado em quase 100% de todos os apps de redes sociais. voce consegue brincar com ele até no google. interessantissimo
+
+AULA DO DIA 21/07
+GIT 
