@@ -16,4 +16,6 @@ AULA DO DIA 20/07
 aprendi um pouco sobre javascript (js) e entendi a teoria e comandos basicos sobre. importante saber tbm que ele é usado em quase 100% de todos os apps de redes sociais. voce consegue brincar com ele até no google. interessantissimo
 
 AULA DO DIA 21/07
-GIT 
+aprendizagem sobre git e github e como os aplicativos funcionam entre si. o git basicamente é um salvamento de versoes do seu projeto. vc vai salvando e criando uma linha do tempo de todo o seu projeto. isso pode ser interessante pra quem quiser editar seu projeto e ter base antes de qualquer versao que vc quiser.~
+ja o github é só a plataforma online que voce vai jogar seu projeto e atualiza-lo a todo momento. é bom tbm para vc nao se perder, e caso seu projeto  de problema, vc consegue voltar algumas versoes e conserta-lo a partir dali 
+
